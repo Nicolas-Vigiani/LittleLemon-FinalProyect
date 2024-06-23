@@ -1,4 +1,4 @@
-<h1 align="center"> Little Lemon Final Proyect || By Facu Sichi</h1>
+<h1 align="center"> Little Lemon Final Proyect </h1>
 
 <p align="center">
 The little lemon app is the capstone project for Meta's Front-End Developer Certificate on Coursera. <br/>
